@@ -1,0 +1,5 @@
+INDEX VERSION 1.131+D:\uni\3º\Evolución y Mantenimiento del Software\practica_workspace\.metadata\.plugins\org.eclipse.jdt.core
+2330587559.index
+2097419222.index
+3473873516.index
+1865797976.index
