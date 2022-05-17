@@ -18,7 +18,7 @@ import java.io.InputStreamReader;
  */
 public class Main {
 
-    /** Método Main. Recupera los parámetros de acceso a la Base de Datos del
+    /** Método Main Recupera los parámetros de acceso a la Base de Datos del
      *  fichero "config.txt" del sistema y lanza la aplicación.
      * @param args the command line arguments
      */
